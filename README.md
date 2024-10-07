@@ -11,12 +11,14 @@ Memory Card Matching Game</p>
 <li><b>Game End Alerts:</b> Receive alerts when time is up or when you've matched all pairs.</li>
 <li><b>Dynamic Images: </b>Cards feature randomized images in each game.</li>
 <li><b>Responsive Design: </b>The game board is responsive and adapts to various screen sizes.</li>
+</ul>
   <h3>
 Technologies Used</h3>
   <ul>
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+  </ul>
     <h3>
 How to Play
     </h3>
