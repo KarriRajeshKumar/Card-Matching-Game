@@ -21,12 +21,12 @@ Technologies Used</h3>
   </ul>
     <h3>
 How to Play
-    </h3>
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/your-repo/memory-card-matching-game.git
-Open the index.html file in your browser.
+    </h3>https://karrirajeshkumar.github.io/Card-Matching-Game/
+<p>Clone the repository to your local machine:</p>
+
+<p><b>Copy code :</b>
+git clone https://github.com/karrirajeshkumar/card-matching-game.git</p>
+<p>Open the index.html file in your browser.</p>
     
 <p><b>Start playing:</b> Click on cards to flip them and match pairs before time runs out!</p>
     
