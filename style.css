@@ -90,3 +90,38 @@ h1 {
     text-shadow: 2px 2px 4px rgba(227, 231, 30, 0.7);
     font-weight: bold;
 }
+@media screen and (max-width: 768px) {
+    .game-board {
+        width: 90vw;
+        height: 90vw;
+    }
+
+    .memory-card {
+        width: calc(33.33% - 10px); 
+        height: calc(33.33% - 10px);
+    }
+
+    h1 {
+        font-size: 2em; 
+    }
+
+    .timer, .score {
+        font-size: 1.2em; 
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .memory-card {
+        width: calc(50% - 10px); 
+        height: calc(50% - 10px);
+    }
+
+    h1 {
+        font-size: 1.5em; 
+    }
+
+    .timer, .score {
+        font-size: 1em; 
+    }
+}
+
