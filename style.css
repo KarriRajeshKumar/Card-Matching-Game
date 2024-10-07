@@ -86,7 +86,7 @@ h1 {
 .timer, .score {
     margin-bottom: 20px;
     font-size: 1.7em;
-    color: #18141f; /* Deep Purple for better contrast */
+    color: #18141f; 
     text-shadow: 2px 2px 4px rgba(227, 231, 30, 0.7);
     font-weight: bold;
 }
