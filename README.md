@@ -1,4 +1,4 @@
-# Card-Matching-Game
+<h1>Card-Matching-Game</h1>
 Challenge your memory and beat the clock by flipping cards to find matching pairs in this exciting and fast-paced game!
 Memory Card Matching Game
 This is an interactive memory card matching game built using HTML, CSS, and JavaScript. Players flip cards to find matching pairs while racing against the clock, improving memory and focus.
