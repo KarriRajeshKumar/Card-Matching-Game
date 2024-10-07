@@ -89,7 +89,7 @@ h1 {
 }
 
 /* Media Queries for Mobile Responsiveness */
-@media (max-width: 768px) {
+@media (max-width: 500px) {
     .game-board {
         width: 90vw; /* Adjust the board width to fit the mobile screen */
         height: auto; /* Let height adjust automatically */
